@@ -53,8 +53,8 @@ This project is suitable for **HCI coursework, usability analysis, academic rese
 
 You may either clone the repository:
 ```bash
-git clone <your-repository-url>
-cd <project-folder>
+git clone https://github.com/Khani-Kingsman/Neilson-s_Heuristic_Evaluation
+cd Neilson-s_Heuristic_Evaluation
 ```
 # How to Run
 ### Run the application using:
